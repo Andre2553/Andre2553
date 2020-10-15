@@ -1,6 +1,6 @@
-![gif](https://github.com/Andre2553/Andre2553/blob/master/source.gif)
+![gif](https://github.com/Andre2553/Andre2553/blob/main/source.gif)
 
-### Hi there，I'm Subranium 🙋‍♂️
+### Hi there，My name is Andre🙋‍♂️
 
 
 - Software Developer.
