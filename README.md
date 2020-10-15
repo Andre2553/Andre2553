@@ -1,6 +1,6 @@
 ![gif](https://github.com/Andre2553/Andre2553/blob/main/source.gif)
 
-### Hi there，My name is Andre🙋‍♂️
+### Hi there，My name is Andre 🙋‍♂️
 
 
 - Software Developer.
@@ -13,7 +13,7 @@ const anmol = {
     code: ["C#", "JavaScript", "Python", "C"],
     askMeAbout: ["web dev", "tech", "games", "robots"],
     technologies: {
-        mobileApp: ["React Native",Unity3D],
+        mobileApp: ["React Native","Unity3D"],
         backEnd: {
             .Net: ["ASP.Net", "MVC"],
             Node.js: ["Express"]
