@@ -4,24 +4,25 @@
 
 
 - Software Developer.
+- Mechatronics Technician
 
 ###  A little more about me...  
 
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["C#", "JavaScript", "Python", "C"],
+    code: ["C#", "JavaScript", "C", "TypeScript"],
     askMeAbout: ["web dev", "tech", "games", "robots"],
     technologies: {
         mobileApp: ["React Native","Unity3D"],
         backEnd: {
             .Net: ["ASP.Net", "MVC"],
-            Node.js: ["Express"]
+            Node.js: ["Express","Multer",""]
         },
         DL: ["TensorFlow"],
         databases: ["MongoDB", "SQLite", "MS SQL Server"]
     },
-    currentFocus: "AR and mobile Apps",
+    currentFocus: "AR, mobile Apps and web Apps",
     
 };
 ```
