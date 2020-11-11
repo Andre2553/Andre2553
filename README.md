@@ -3,7 +3,7 @@
 ### Hi there，My name is Andre 🙋‍♂️
 
 
-- Software Developer.
+- Software Developer
 - Mechatronics Technician
 
 ###  A little more about me...  
@@ -16,8 +16,8 @@ const anmol = {
     technologies: {
         mobileApp: ["React Native","Unity3D"],
         backEnd: {
-            .Net: ["ASP.Net", "MVC"],
-            Node.js: ["Express","Multer",""]
+            .Net: ["ASP.Net", "Entity Framework"],
+            Node.js: ["Express","Multer","typeorm",knex.js]
         },
         DL: ["TensorFlow"],
         databases: ["MongoDB", "SQLite", "MS SQL Server"]
