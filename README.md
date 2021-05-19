@@ -13,17 +13,18 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["C#", "JavaScript", "C", "TypeScript", "C++"],
-    askMeAbout: ["web dev", "tech", "games", "robots"],
+    askMeAbout: ["web dev", "tech", "games", "robots","AI"],
     technologies: {
-        mobileApp: ["React Native","Unity3D"],
+        frontend: ["React.js", "Next.js", "HTML","CSS"]
+        mobileApp: ["React Native","Unity3D","Flutter"],
         backEnd: {
             .Net: ["ASP.Net", "Entity Framework"],
             Node.js: ["Express","Multer","typeorm",knex.js]
         },
         DL: ["TensorFlow"],
-        databases: ["MongoDB", "SQLite", "MS SQL Server"]
+        databases: ["MongoDB", "SQLite", "MS SQL Server", MYSQL]
     },
-    currentFocus: "AR, mobile Apps and web Apps",
+    currentFocus: "AI, AR, mobile Apps and web Apps",
     
 };
 ```
