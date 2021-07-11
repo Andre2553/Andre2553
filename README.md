@@ -34,3 +34,11 @@ const anmol = {
 ---
 
 [![Andre's github stats](https://github-readme-stats.vercel.app/api?username=Andre2553&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre2553&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
+
