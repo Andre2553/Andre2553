@@ -5,7 +5,7 @@
 
 - Software Developer
 - Mechatronics Technician
-- Computer Scientist student
+- Computer Scientist
 
 ###  A little more about me...  
 
