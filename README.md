@@ -37,7 +37,7 @@ const anmol = {
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total of visits in my profile :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Andre2553/count.svg" />
  </p>
