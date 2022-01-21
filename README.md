@@ -19,7 +19,7 @@ const anmol = {
         mobileApp: ["React Native","Unity3D","Flutter"],
         backEnd: {
             .Net: ["ASP.Net", "Entity Framework"],
-            Node.js: ["Express","Multer","typeorm",knex.js]
+            Node.js: ["Express","Multer","typeorm","knex.js"]
         },
         DL: ["TensorFlow"],
         databases: ["MongoDB", "SQLite", "MS SQL Server", MYSQL]
