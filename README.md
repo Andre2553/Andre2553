@@ -14,7 +14,7 @@ const aboutMe = {
     code: ["C#", "JavaScript", "C", "TypeScript", "C++"],
     askMeAbout: ["web dev", "tech","robots","AI","violin","soccer"],
     technologies: {
-        frontend: ["React.js", "Next.js", "HTML","CSS"]
+        frontend: ["React.js", "Next.js", "HTML","CSS"],
         mobileApp: ["React Native","Unity3D"],
         backend: {
             .Net: ["ASP.Net", "Entity Framework"],
