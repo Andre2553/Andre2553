@@ -10,18 +10,16 @@
 ###  A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
+const aboutMe = {
     code: ["C#", "JavaScript", "C", "TypeScript", "C++"],
-    askMeAbout: ["web dev", "tech", "games", "robots","AI"],
+    askMeAbout: ["web dev", "tech","robots","AI","violin","soccer"],
     technologies: {
         frontend: ["React.js", "Next.js", "HTML","CSS"]
-        mobileApp: ["React Native","Unity3D","Flutter"],
-        backEnd: {
+        mobileApp: ["React Native","Unity3D"],
+        backend: {
             .Net: ["ASP.Net", "Entity Framework"],
             Node.js: ["Express","Multer","typeorm","knex.js"]
         },
-        DL: ["TensorFlow"],
         databases: ["MongoDB", "SQLite", "MS SQL Server", MYSQL]
     },
     currentFocus: "AI, AR, mobile Apps and web Apps",
