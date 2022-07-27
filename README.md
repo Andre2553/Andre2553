@@ -10,7 +10,7 @@
 ###  A little more about me...  
 
 ```javascript
-const aboutMe = {
+let aboutMe = {
     code: ["C#", "JavaScript", "C", "TypeScript", "C++"],
     askMeAbout: ["web dev", "tech","robots","AI","violin","soccer"],
     technologies: {
