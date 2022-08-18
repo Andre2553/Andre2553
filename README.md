@@ -20,7 +20,7 @@ let aboutMe = {
             .Net: ["ASP.Net", "Entity Framework"],
             Node.js: ["Express","Multer","typeorm","knex.js"]
         },
-        databases: ["MongoDB", "SQLite", "MS SQL Server", MYSQL]
+        databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL"]
     },
     currentFocus: "AI, AR, mobile Apps and web Apps",
     
