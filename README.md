@@ -1,7 +1,4 @@
-![gif](https://github.com/Andre2553/Andre2553/blob/main/source.gif)
-
 ### Hi there，My name is Andre
-
 
 - Software Developer
 - Mechatronics Technician
