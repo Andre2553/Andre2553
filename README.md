@@ -9,17 +9,19 @@
 ```javascript
 let aboutMe = {
     code: ["C#", "JavaScript", "C", "TypeScript", "C++"],
-    askMeAbout: ["web dev", "tech","robots","AI","violin","soccer"],
+    askMeAbout: ["Web dev", "AR","Robotics","AI", "History", "Games", "Arts"],
     technologies: {
         frontend: ["React.js", "Next.js", "HTML","CSS"],
         mobileApp: ["React Native","Unity3D"],
         backend: {
             .Net: ["ASP.Net", "Entity Framework"],
-            Node.js: ["Express","Multer","typeorm","knex.js"]
+            Node.js: ["Express","Multer","typeorm","knex.js, Node-red"]
         },
-        databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL"]
+        databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL"],
+        API: "API REST, GRAPHQL"
     },
-    currentFocus: "AI, AR, mobile Apps and web Apps",
+    currentFocus: "AI, AR, Mobile Apps and Web Apps",
+    hobbies: ["Violin", "Soccer", "Taekwondo","Swimming","Tutoring"]
     
 };
 ```
