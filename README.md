@@ -15,10 +15,10 @@ let aboutMe = {
         mobileApp: ["React Native","Unity3D"],
         backend: {
             .Net: ["ASP.Net", "Entity Framework"],
-            Node.js: ["Express","Multer","typeorm","knex.js, Node-red"]
+            Node.js: ["Express","Multer","typeorm","knex.js", "Node-red", "Prisma IO",]
         },
         databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL"],
-        API: "API REST, GRAPHQL"
+        API: "REST API, GRAPHQL"
     },
     currentFocus: "AI, AR, Mobile Apps and Web Apps",
     hobbies: ["Violin", "Soccer", "Taekwondo","Swimming","Tutoring"]
