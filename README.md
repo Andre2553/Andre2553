@@ -1,4 +1,4 @@
-### Hi there，My name is Andre
+### Hi there 👋，my name is Andre, and I am:
 
 - Software Developer
 - Mechatronics Technician
@@ -20,7 +20,7 @@ let aboutMe = {
     code: ["C#", "JavaScript", "C", "TypeScript", "C++"],
     askMeAbout: ["Web dev", "AR","Robotics","AI", "History", "Games", "Arts"],
     technologies: {
-        desktop: ["Electron", "Unity3D"],
+        desktop: ["ElectronJs", "Unity3D"],
         frontend: ["React.js", "Next.js", "HTML","CSS"],
         mobileApp: ["React Native","Unity3D"],
         backend: [
@@ -28,7 +28,10 @@ let aboutMe = {
             {'Node.js': ["Express","Multer","typeorm","knex.js", "Node-red", "Prisma IO"]}
         ],
         databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Hygraph"],
-        api: ["REST API", "GRAPHQL"]
+        api: ["REST API", "GRAPHQL"],
+        tools: ["Postman","Figma", "Jira","Slack","TeamWorks"],
+        documentation: ["Swagger", "Apiary.IO"],
+        microcontrollers-microprocessors: ["Arduino", "Raspberry pi"]
     },
     currentFocus: ["AI", "AR", "Mobile Apps", "Web Apps", "VR", "Machine Learning", "IoT", "Robots"],
     hobbies: ["Violin", "Soccer", "Chess", "Taekwondo","Swimming","Tutoring"]
