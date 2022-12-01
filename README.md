@@ -31,7 +31,7 @@ let aboutMe = {
         api: ["REST API", "GRAPHQL"],
         tools: ["Postman","Figma", "Jira","Slack","TeamWorks"],
         documentation: ["Swagger", "Apiary.IO"],
-        microcontrollers-microprocessors: ["Arduino", "Raspberry pi"]
+        microcontrollers_microprocessors: ["Arduino", "Raspberry pi"]
     },
     currentFocus: ["AI", "AR", "Mobile Apps", "Web Apps", "VR", "Machine Learning", "IoT", "Robots"],
     hobbies: ["Violin", "Soccer", "Chess", "Taekwondo","Swimming","Tutoring"]
