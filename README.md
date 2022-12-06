@@ -25,10 +25,10 @@ let aboutMe = {
         mobileApp: ["React Native","Unity3D"],
         backend: [
             {'.Net': ["ASP.Net", "Entity Framework"]},
-            {'Node.js': ["Express","Multer","typeorm","knex.js", "Node-red", "Prisma IO"]}
+            {'Node.js': ["Express","Multer","typeorm","knex.js", "Node-red", "Prisma IO", "Typeorm"]}
         ],
-        databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Hygraph"],
-        api: ["REST API", "GRAPHQL"],
+        databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Hygraph", "Postgresql"],
+        api: ["REST API", "GraphQL"],
         tools: ["Postman","Figma", "Jira","Slack","TeamWorks"],
         documentation: ["Swagger", "Apiary.IO"],
         microcontrollers_microprocessors: ["Arduino", "Raspberry pi"]
