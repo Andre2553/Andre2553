@@ -25,16 +25,17 @@ let aboutMe = {
         mobileApp: ["React Native","Unity3D"],
         backend: [
             {'.Net': ["ASP.Net", "Entity Framework"]},
-            {'Node.js': ["Express","Multer","typeorm","knex.js", "Node-red", "Prisma IO", "Typeorm"]}
+            {'Node.js': ["Express","Multer","KnexJs", "Node-red", "Prisma IO", "Typeorm", "NestJs"]}
         ],
         databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Hygraph", "Postgresql"],
+        messageBrokers: ["RabbitMQ", "Apache Kafka"]
         api: ["REST API", "GraphQL"],
-        tools: ["Postman","Figma", "Jira","Slack","TeamWorks"],
+        tools: ["Docker", "Postman","Figma", "Jira","Slack","TeamWorks", "VsCode", "Photoshop", "CoreDraw"],
         documentation: ["Swagger", "Apiary.IO"],
         microcontrollers_microprocessors: ["Arduino", "Raspberry pi"]
     },
-    currentFocus: ["AI", "AR", "Mobile Apps", "Web Apps", "VR", "Machine Learning", "IoT", "Robots"],
-    hobbies: ["Violin", "Soccer", "Chess", "Taekwondo","Swimming","Tutoring"]
+    currentFocus: ["AI", "AR", "Web Apps", "VR", "Machine Learning", "IoT", "Robots"],
+    hobbies: ["Violin", "Soccer", "Chess", "Taekwondo", "Swimming", "Tutoring"]
     
 };
 ```
