@@ -28,7 +28,7 @@ let aboutMe = {
             {'Node.js': ["Express","Multer","KnexJs", "Node-red", "Prisma IO", "Typeorm", "NestJs"]}
         ],
         databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Hygraph", "Postgresql"],
-        messageBrokers: ["RabbitMQ", "Apache Kafka"]
+        messageBrokers: ["RabbitMQ", "Apache Kafka"],
         api: ["REST API", "GraphQL"],
         tools: ["Docker", "Postman","Figma", "Jira","Slack","TeamWorks", "VsCode", "Photoshop", "CoreDraw"],
         documentation: ["Swagger", "Apiary.IO"],
