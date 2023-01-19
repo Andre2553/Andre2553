@@ -25,7 +25,7 @@ let aboutMe = {
         mobileApp: ["React Native","Unity3D"],
         backend: [
             {'.Net': ["ASP.Net", "Entity Framework"]},
-            {'Node.js': ["Express","Multer","KnexJs", "Node-red", "Prisma IO", "Typeorm", "NestJs"]}
+            {'Node.js': ["Express", "Fastify", "Multer", "KnexJs", "Node-red", "Prisma IO", "Typeorm", "NestJs"]}
         ],
         databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Hygraph", "Postgresql"],
         messageBrokers: ["RabbitMQ", "Apache Kafka"],
