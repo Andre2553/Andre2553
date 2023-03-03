@@ -5,7 +5,7 @@
 - Computer Scientist
 - Aspiring Violinist
 
-I am passionate about technology, I have been coding since I was 14 years old, and I have never let my love for this to get cold.
+I am passionate about technology, I have been coding since I was 13 years old, and I have never let my love for this to get cold.
 
 Technology has a lot more to contribute to our society. And I want to help it using my creativity and knowledge. 
 
@@ -21,13 +21,14 @@ let aboutMe = {
     askMeAbout: ["Web dev", "AR","Robotics","AI", "History", "Games", "Arts"],
     technologies: {
         desktop: ["ElectronJs", "Unity3D"],
-        frontend: ["React.js", "Next.js", "HTML","CSS"],
-        mobileApp: ["React Native","Unity3D"],
+        frontend: ["React.js", "Next.js", "HTML","CSS", "Tailwind", "Jest"],
+        mobileApp: ["React Native","Unity3D", "Android Studio"],
         backend: [
             {'.Net': ["ASP.Net", "Entity Framework"]},
-            {'Node.js': ["Express", "Fastify", "Multer", "KnexJs", "Node-red", "Prisma IO", "Typeorm", "NestJs"]}
+            {'Node.js': ["Express", "Fastify", "Multer", "KnexJs", "Node-red", "Prisma IO", "Typeorm", "NestJs", "Jest", "Docker"]}
         ],
-        databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Hygraph", "Postgresql"],
+        databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Postgresql"],
+        cms: ["Hygraphy", "Shopify", "Strapi"]
         messageBrokers: ["RabbitMQ", "Apache Kafka"],
         api: ["REST API", "GraphQL"],
         tools: ["Docker", "Postman","Figma", "Jira","Slack","TeamWorks", "VsCode", "Photoshop", "CoreDraw"],
