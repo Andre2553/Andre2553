@@ -28,7 +28,7 @@ let aboutMe = {
             {'Node.js': ["Express", "Fastify", "Multer", "KnexJs", "Node-red", "Prisma IO", "Typeorm", "NestJs", "Jest", "Docker"]}
         ],
         databases: ["MongoDB", "SQLite", "MS SQL Server", "MYSQL", "Postgresql"],
-        cms: ["Hygraphy", "Shopify", "Strapi"]
+        cms: ["Hygraphy", "Shopify", "Strapi"],
         messageBrokers: ["RabbitMQ", "Apache Kafka"],
         api: ["REST API", "GraphQL"],
         tools: ["Docker", "Postman","Figma", "Jira","Slack","TeamWorks", "VsCode", "Photoshop", "CoreDraw"],
@@ -40,6 +40,9 @@ let aboutMe = {
     
 };
 ```
+
+My work profile is https://github.com/AndreRLima
+
 [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Andre2553&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
